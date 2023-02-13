@@ -737,8 +737,7 @@
                     "text": [
                         "OuV89Yl1gZ"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "send_message",
@@ -762,8 +761,7 @@
                         "xzFfLZFgGw"
                     ],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "find_channel",
@@ -826,8 +824,7 @@
                     "message_embed": [
                         "B7g2x2yovc"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "get_text_channel_info",
@@ -873,8 +870,7 @@
                     "text": [
                         "TjbebGAWq0"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "find_channel",
@@ -989,8 +985,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "interaction_event_fixed",
@@ -1073,8 +1068,7 @@
                     "text": [
                         "8dxcRjvCJk"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "get_message_info",
@@ -1152,9 +1146,7 @@
                         "WR3ogYZiDZ"
                     ],
                     "member": []
-                },
-                "inputs": {},
-                "options": {}
+                }
             },
             {
                 "name": "delete_message",
@@ -1175,8 +1167,7 @@
                     "action": [
                         "I5lDBe0ihk"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "get_message_attachment_info",
@@ -1283,8 +1274,7 @@
                     "row": [
                         "vnLEF8uOo9"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_button",
@@ -1371,8 +1361,7 @@
                 },
                 "outputs": {
                     "action": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_embed_message",
@@ -1406,8 +1395,7 @@
                     "message_embed": [
                         "qemm5zYGVQ"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message",
@@ -1431,8 +1419,7 @@
                         "I1Ky4DR7Hk"
                     ],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "check_if_value_exists",
@@ -1455,8 +1442,7 @@
                     "action2": [
                         "sF3eTkFpt7"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_button",
@@ -1545,8 +1531,7 @@
                     "action": [
                         "JIbJYRIjlU"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "write_file",
@@ -1589,8 +1574,7 @@
                     "text": [
                         "5NP1FsSBUn"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "text",
@@ -1609,8 +1593,7 @@
                     "text": [
                         "ewMuSWy1J3"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "write_file",
@@ -1681,8 +1664,7 @@
                         "NNC6L09HDm",
                         "KzTkR7zJtW"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "get_item_from_list_v2",
@@ -1811,8 +1793,7 @@
                     "action": [
                         "zKTR9Gq0mr"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message",
@@ -1834,8 +1815,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "find_channel",
@@ -1886,8 +1866,7 @@
                     "text2": [
                         "8yXY7qFv01"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "merge_texts_advanced",
@@ -1995,8 +1974,7 @@
                     "action": [
                         "ClYBjULVo1"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_button",
@@ -2119,8 +2097,7 @@
                     "action": [
                         "x3CmIMlYaS"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "write_file",
@@ -2163,8 +2140,7 @@
                     "text": [
                         "IAwvgomwUG"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "interaction_event_fixed",
@@ -2217,8 +2193,7 @@
                     "text": [
                         "ZxlbjkclYG"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "delete_message",
@@ -2239,8 +2214,7 @@
                     "action": [
                         "2VS2yuB96B"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "write_file",
